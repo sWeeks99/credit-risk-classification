@@ -1,4 +1,4 @@
-# Credit Risk Classification
+# Credit Risk Classification Challenge
 My name is Sean Weeks, this is my submission for the Module 20 Challenge.
 
 This repository includes the main Jupyter Notebook and Python code titled "credit_risk_classification", report template used as reference for the report written below, and a Resources folder containing the data pulled from a CSV file
