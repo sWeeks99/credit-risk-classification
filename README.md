@@ -1,7 +1,9 @@
 # Credit Risk Classification
 My name is Sean Weeks, this is my submission for the Module 20 Challenge.
 
-This repository includes
+This repository includes the main Jupyter Notebook and Python code titled "credit_risk_classification", report template used as reference for the report written below, and a Resources folder containing the data pulled from a CSV file
+
+-XPert Learning Assistant, used to review and double-check the code as needed.
 
 
 # Overview of the Analysis
@@ -60,22 +62,26 @@ The main variable we aimed to predict was loan_status.
 * Precision:
 
     -Class 0 (Repaid): 1.00
+  
     -Class 1 (Defaulted): 0.87
 
 * Recall:
 
     -Class 0: 1.00
+  
     -Class 1: 0.89
 
 * F1-Score:
 
     -Class 0: 1.00
+  
     -Class 1: 0.88
 
 
 * Support:
 
     -Class 0: 18,759 instances
+  
     -Class 1: 625 instances
 
 
