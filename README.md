@@ -88,6 +88,7 @@ The main variable we aimed to predict was loan_status.
 # Summary
 The Logistic Regression model demonstrated excellent overall performance with an accuracy of 99%. It was particularly strong in predicting Class 0 (loans that were repaid), achieving perfect precision, recall, and F1-score. Although the results for Class 1 (defaulted loans) were not perfect, they still showed high performance with a precision of 87% and a recall of 89%.
 
+Given the Logistic Regression model's overall performance, it is applicable in a real-world environment. 
 
 # Recommendation
-Given the Logistic Regression model's overall performance, it is suitable for application in a real-world environment, even with the slightly lower precision and recall for Class 1. To further improve the model's performance on predicting defaults, we could explore other models such as Random Forest or Gradient Boosting.
+ As it would be in the company's best favor, it would be best to find ways to further improve the model's performance on predicting default. We could explore other models such as Random Forest or Gradient Boosting in search of better results regarding Class 1.
